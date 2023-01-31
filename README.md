@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Donald Huynh</h1>
 
-- 🌱 I’m currently learning **predictive regression models, time series forecasting, and data visualization.**
+- 🌱 I’m currently learning **how to build an end-to-end machine learning product.**
 
-- 👯 I’m looking to collaborate on **data science projects that involve statistical analysis and can provide value for content driven operations.**
+- 👯 I’m looking to collaborate on **applying machine learning to build products that people would like to use.**
 
-- 🤝 I’m looking for help with **productionizing machine learning models.**
+- 🤝 I’m looking for help with **MlOps and productionizing machine learning models.**
 
-- 💬 Ask me anything **related to popular content, data science, and personal development! I love getting to know like-minded individuals who are hungry to grow thier careers.**
+- 💬 Ask me anything **related to popular culture, data science, and personal development! I love getting to know like-minded individuals who are looking to grow thier careers.**
 
-- ⚡ Fun fact: **My favorite show is currently Succession on HBO Max.**
+- ⚡ Fun fact: **Currently, my favorite show is Succession on HBO Max.**
 
-### Background
+### Background 
 
-I graduated from UC Santa Barbara with a Bachelor of Science in Biology. After getting opportunities to leverage coding and statistics to analyze biological experiments, I knew I wanted to pursue a career in data science. I started to spend my time leveraging coding and statistics to create content analysis projects that can provide insights for consumers. As a current data analyst, I typically take the initiative to look for opportunities to automate tasks for my team as well as leverage our data to add value for operations management. 
+With a Bachelor of Science in Biology from UC Santa Barbara, I have always had a passion for data analysis and utilizing scientific methodologies to drive results. My education in biology provided a strong foundation for my analytical mindset, and I quickly realized that data science was the field where I could apply my skills and drive meaningful impact.
+
+Since graduation, I have honed my technical skills in coding and statistics to create data-driven projects that provide valuable insights to stakeholders. As a current Data Analyst, I take the initiative to find opportunities to streamline tasks and leverage data to drive improvements in business operations. My ability to work closely with leadership and my commitment to delivering high-quality work has allowed me to consistently add value to my team and company. I am eager to continue growing as a data professional and look forward to new opportunities to utilize my skills and drive impact.
 ### Contact Me
 
 To reach me, please contact me on LinkedIn or email me at **donaldh123@gmail.com**
