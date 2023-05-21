@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **applying machine learning to build products that people would like to use.**
 
 - 🤝 I’m looking for help with **growing my career as a product analyst and working on impactful projects.**
- This can include advice on building a strong portfolio, expanding your technical skills, staying updated with industry trends, networking with professionals in the field, and exploring opportunities for growth and specialization.
+
 - 💬 Ask me anything **related to popular culture, data science, and personal development!**
 
 - ⚡ Fun fact: **Currently, my favorite show is Succession on HBO Max.**
