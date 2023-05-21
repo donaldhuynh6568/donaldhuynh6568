@@ -12,7 +12,7 @@
 
 ### Background 
 
-With a Bachelor of Science in Biology from UC Santa Barbara, I possess a solid foundation in data analysis and a relentless drive to deliver results. My educational background in biology has cultivated an analytical mindset and a strong passion for utilizing scientific methodologies to extract meaningful insights from data.
+With a Bachelor of Science from UC Santa Barbara, I possess a solid foundation in data analysis and a relentless drive to deliver results. My educational background in biology has cultivated an analytical mindset and a strong passion for collaboration to extract meaningful insights from data.
 
 Since graduating, I have actively honed my technical skills in coding and statistics, enabling me to create data-driven projects that provide valuable insights and drive impactful outcomes. As a current Data Analyst, I consistently demonstrate initiative in identifying opportunities to streamline tasks and leverage data to optimize business operations. My close collaboration with leadership and unwavering commitment to delivering high-quality work have consistently positioned me as a valuable contributor to my team and organization.
 
