@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Donald Huynh</h1>
 
-- 🌱 I’m currently learning **how to improve a product through data science.**
+- 🌱 I’m currently **honing my skills in leveraging data science to enhance product development.**
 
-- 👯 I’m looking to collaborate on **applying machine learning to build products that people would like to use.**
+- 👯 I’m enthusiastic about collaborating on **applying analytical processes and machine learning techniques in creating user-centric products.**
 
-- 🤝 I’m looking for help with **growing my career as a product analyst and working on impactful projects.**
+- 🤝 I’m looking for support with **furthering my career as a product analyst, and I am eager to contribute to meaningful projects.**
 
 - 💬 Ask me anything **related to popular culture, data science, and personal development!**
 
